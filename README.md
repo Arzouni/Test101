@@ -1,4 +1,3 @@
 # Test101
-This is a test project to learn how to have the first commit message
-
-This is my file
+This is a test project (test101) to learn how to have the first commit message
+this was done by walid.
